@@ -44,5 +44,5 @@ Basic REST API testing using Postman on a fake user/posts API.
 
 ## 📫 Contact
 
-- LinkedIn: (https://www.linkedin.com/in/deontae-wills-122399192/)
+- LinkedIn: https://www.linkedin.com/in/deontae-wills-122399192/
 - Email: willsdeontae06@gmail.com
