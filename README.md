@@ -25,9 +25,8 @@ Hello! I'm Deontae, a new QA Tester with an extensive background in web developm
 ### ✅ [Roblox Sign-Up Flow Testing]()
 Manual testing of Roblox's sign-up flow focused on input validation and moderation bypasses.
 
-- 🔹 3+ Test Cases
-- 🐞 2 High Severity Bug Reports
-- 🧠 Exploratory findings (username & bio issues)
+- 🔹 [Test Cases](https://docs.google.com/document/d/1EOR376mY2_l3Gm3qJvyiKrVdPYfsXU88i8M2_Tm9uRQ/edit?usp=sharing)
+- 🐞 Bug Reports
 - 🖼️ Screenshots + DevTools log
 
 ---
