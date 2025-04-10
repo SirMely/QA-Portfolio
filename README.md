@@ -20,7 +20,7 @@ Hello! I'm Deontae, a new QA Tester with an extensive background in web developm
 
 ---
 
-## 📁 Projects (NOTICE- I have not set the pictures up yet if you are viewing 4/4/25 or 4/5/25 I will update when I get home from work!)
+## 📁 Projects
 
 ### ✅ [Roblox Sign-Up Testing]()
 Manual testing of Roblox's sign-up flow focused on input validation and moderation bypasses.
