@@ -30,13 +30,16 @@ Manual testing of Roblox's sign-up flow focused on input validation and moderati
 
 ---
 
-### ✅ [Postman API Testing – JSONPlaceholder]()
-Basic REST API testing using Postman on a fake user/posts API.
+### ✅ [Exploritory Testing Demo E-Commerce Store](https://youtu.be/ZemOm82UIfA)
+Exploring and finding Bugs in an E-Commerce Store
 
-- 🔹 GET /users and /posts
-- 🔹 POST /posts with JSON body
-- ✅ Status code validation (200, 201)
-- ❌ Negative testing (404s)
+- 🔹 Notepad
+- 🐞 Finding Bugs
+- ❌ DevTools log + Console Errors
+
+---
+
+### ✅ [Coming Soon]()
 
 ---
 
