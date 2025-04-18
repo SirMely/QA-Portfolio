@@ -32,7 +32,7 @@ Manual testing of Roblox's sign-up flow focused on input validation and moderati
 
 ---
 
-### ✅ [Exploritory Testing Demo E-Commerce Store  <-- Press Me](https://youtu.be/ZemOm82UIfA)
+### ✅ [Exploritory Testing Demo E-Commerce Store] <-- Press Me(https://youtu.be/ZemOm82UIfA)
 Exploring and finding Bugs in an E-Commerce Store
 
 - 🔹 Notepad
