@@ -2,6 +2,8 @@
 
 Hello! I'm Deontae, a new QA Tester with an extensive background in web development. I specialize in manual testing, writing detailed test cases, logging clear bug reports, and exploring edge cases across multiple browsers and platforms. I've also had the chance to work with API testing using Postman and have rekindled my love for breaking things (for a good reason of course 😎)!
 
+Here's my Web Development Portfolio --> [Portfolio](https://deontaewills.netlify.app)
+
 ---
 
 ## 🔧 Skills & Tools
