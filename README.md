@@ -1,6 +1,6 @@
 # 🧪 Deontae Wills – QA Tester Portfolio
 
-Hello! I'm Deontae, a new QA Tester with an extensive background in web development. I specialize in manual testing, writing detailed test cases, logging clear bug reports, and exploring edge cases across multiple browsers and platforms. I've also had the chance to work with API testing using Postman and have rekindled my love for breaking things (for a good reason of course 😎)!
+Hello! I'm Deontae, a new QA Tester with an extensive background in web development. I specialize in manual testing, writing detailed test cases, logging clear bug reports, and exploring edge cases across multiple browsers and platforms. I've also had the chance to work with API testing using Postman and have rekindled my love for breaking things (for a good reason, of course 😎)!
 
 Here's my Web Development Portfolio --> [Portfolio](https://deontaewills.netlify.app)
 
@@ -18,7 +18,7 @@ Here's my Web Development Portfolio --> [Portfolio](https://deontaewills.netlify
 - Basics of Python / including Web scraping with BeautifulSoup and API with Python
 - Very fluent in HTML, CSS, and JavaScript
 - Front-end Frameworks such as React
-- Basics of SQL, PostgreSQL, and experience with SQLLite
+- Basics of SQL, PostgreSQL, and experience with SQLite
 
 ---
 
@@ -32,8 +32,8 @@ Manual testing of Roblox's sign-up flow focused on input validation and moderati
 
 ---
 
-### ✅ [Exploritory Testing Demo E-Commerce Store](https://youtu.be/ZemOm82UIfA) <-- Press Me
-Exploring and finding Bugs in an E-Commerce Store
+### ✅ [Exploratory Testing Demo E-Commerce Store](https://youtu.be/ZemOm82UIfA) <-- Press Me
+Exploring and Finding Bugs in an E-Commerce Store
 
 - 🔹 Notepad
 - 🐞 [Finding Bugs](https://trello.com/invite/b/68014a1322e5a9710247b750/ATTId36c804a056538cfe4d1bb864a75a0449569082E/demo-e-commerce-store-bug-report-example-deontae-wills)
