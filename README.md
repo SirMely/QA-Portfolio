@@ -41,7 +41,11 @@ Exploring and Finding Bugs in an E-Commerce Store
 
 ---
 
-### ✅ [Test Automation Foundation Projects]()
+### ✅ [Test Automation Foundation Projects](https://www.linkedin.com/learning/certificates/98bd3d4266da80593cdc633e2d7762bb848c7aadb1f86ea25b59409b18583fb1?trk=share_certificate)
+Learning more about Test Automation and how to make better Test Documentation. (This was for the Test Automation Foundations course)
+
+- 🛠️ [Automation Plan Project](https://docs.google.com/document/d/1qxbrzvyRp0xEFHzw265PT99dnbnStIIUvDhXHK3Zpy0/edit?tab=t.0)
+- 📊 [What to Automate Project](https://docs.google.com/document/d/197EIz6_FKX9g1oTRoSSi_DerTPhG5eqeINVUehG1o4o/edit?usp=sharing)
 
 ---
 
