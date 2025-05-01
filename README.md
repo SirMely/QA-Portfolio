@@ -41,7 +41,7 @@ Exploring and Finding Bugs in an E-Commerce Store
 
 ---
 
-### ✅ [Coming Soon]()
+### ✅ [Test Automation Foundation Projects]()
 
 ---
 
